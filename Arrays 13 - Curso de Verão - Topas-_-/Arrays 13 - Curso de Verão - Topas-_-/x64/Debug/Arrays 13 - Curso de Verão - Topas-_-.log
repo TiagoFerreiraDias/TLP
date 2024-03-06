@@ -1,0 +1,11 @@
+﻿  FileName.cpp
+C:\Users\aluno\source\repos\Arrays 13 - Curso de Verão - Topas-_-\Arrays 13 - Curso de Verão - Topas-_-\FileName.cpp(5,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\aluno\source\repos\Arrays 13 - Curso de Verão - Topas-_-\Arrays 13 - Curso de Verão - Topas-_-\FileName.cpp(15,22): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Arrays 13 - Curso de Verão - Topas-_-\Arrays 13 - Curso de Verão - Topas-_-\FileName.cpp(21,31): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Arrays 13 - Curso de Verão - Topas-_-\Arrays 13 - Curso de Verão - Topas-_-\FileName.cpp(25,26): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Arrays 13 - Curso de Verão - Topas-_-\Arrays 13 - Curso de Verão - Topas-_-\FileName.cpp(31,35): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Arrays 13 - Curso de Verão - Topas-_-\Arrays 13 - Curso de Verão - Topas-_-\FileName.cpp(36,26): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Arrays 13 - Curso de Verão - Topas-_-\Arrays 13 - Curso de Verão - Topas-_-\FileName.cpp(42,35): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Arrays 13 - Curso de Verão - Topas-_-\Arrays 13 - Curso de Verão - Topas-_-\FileName.cpp(47,26): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Arrays 13 - Curso de Verão - Topas-_-\Arrays 13 - Curso de Verão - Topas-_-\FileName.cpp(53,35): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Arrays 13 - Curso de Verão - Topas-_-.vcxproj -> C:\Users\aluno\source\repos\Arrays 13 - Curso de Verão - Topas-_-\x64\Debug\Arrays 13 - Curso de Verão - Topas-_-.exe
