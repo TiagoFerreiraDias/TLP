@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+C:\Users\aluno\source\repos\Funções ex.1\Funções ex.1\FileName.cpp(5,6): error C2365: 'media': redefinição; definição anterior era 'variável de dados'
+  C:\Users\aluno\source\repos\Funções ex.1\Funções ex.1\FileName.cpp(4,25):
+  consulte a declaração de 'media'
+  
+C:\Users\aluno\source\repos\Funções ex.1\Funções ex.1\FileName.cpp(25,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\aluno\source\repos\Funções ex.1\Funções ex.1\FileName.cpp(27,9): warning C4552: '>': o resultado da expressão não é usado
+C:\Users\aluno\source\repos\Funções ex.1\Funções ex.1\FileName.cpp(45,3): error C2064: o termo não pode ser avaliado como uma função recebendo 1 argumentos
